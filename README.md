@@ -7,5 +7,5 @@ Also available on [stackblitz](https://stackblitz.com/edit/angular-sentry-button
 ## Run local
 ```
 npm install
-ng server --open
+ng serve --open
 ```
